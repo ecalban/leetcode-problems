@@ -20,20 +20,20 @@ class Solution {
         newList.next = new ListNode(sum);
         newList = newList.next;
         if(l1.next!=null && l2.next!=null){
-            // iki düğümünde sonrakisi var
+            // both node have next
             return addTwoNumbers(l1.next, l2.next);
         }
         else if (l1.next!=null && l2.next==null){
-            // l1 sonrakisi var l2 yok
+            // only l1 has next 
             l2.next = new ListNode(0);
             return addTwoNumbers(l1.next, l2.next);
         }
         else if (l1.next==null && l2.next!=null){
-            // l1 sonrakisi yok l2 var
+            // only l2 has next
             l1.next = new ListNode(0);
             return addTwoNumbers(l1.next, l2.next);
         }
-        // ikisininde devamı yok
+        // both node dont have next
         if(carry==1){
             newList.next = new ListNode(carry);
             newList = newList.next;
