@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ecalban/leetcode-problems/tree/master/0002-add-two-numbers) |
+| [0061-rotate-list](https://github.com/ecalban/leetcode-problems/tree/master/0061-rotate-list) |
 ## Math
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ecalban/leetcode-problems/tree/master/0011-container-with-most-water) |
+| [0061-rotate-list](https://github.com/ecalban/leetcode-problems/tree/master/0061-rotate-list) |
 ## Greedy
 |  |
 | ------- |
