@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ecalban/leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/ecalban/leetcode-problems/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/ecalban/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/ecalban/leetcode-problems/tree/master/0268-missing-number) |
 ## Recursion
 |  |
@@ -55,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ecalban/leetcode-problems/tree/master/0268-missing-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ecalban/leetcode-problems/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ecalban/leetcode-problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
